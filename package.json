@@ -1,7 +1,7 @@
 {
-  "name": "ora-bot",
+  "name": "aura-bot",
   "version": "1.0.0",
-  "description": "Telegram Chatwoot Bot",
+  "description": "Telegram + Chatwoot Bot",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
@@ -13,6 +13,6 @@
     "express": "^4.19.2",
     "form-data": "^4.0.0",
     "node-fetch": "^2.7.0",
-    "telegraf": "^4.16.3"
+    "telegraf": "^4.22.0"
   }
 }
